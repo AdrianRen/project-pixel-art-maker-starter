@@ -1,5 +1,5 @@
-# Udacity Front End Web DeveloperPixel Nanodegree Project 2
+# Udacity Front-End Web Developer Nanodegree Project 2
 
-## Art Maker Project
+## Pixel Art Maker Project
 
 ### Developed by Adrian Ren
