@@ -3,3 +3,5 @@
 ## Pixel Art Maker Project
 
 ### Developed by Adrian Ren
+
+Steps:
